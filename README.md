@@ -4,6 +4,7 @@ https://gorgigames.itch.io/sll-test
 I didn't have time to add comments so I'm going to add notable detail here. It may be difficult to figure out my scripts because of the weird coding style used, so just read this information I guess.
 
 This is a loading test for the game engine Unity (2017.3.1f1).
+
 How loading works in Unity (learned from testing and experience):
 
 

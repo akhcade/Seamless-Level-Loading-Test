@@ -14,3 +14,4 @@ Please note that calling the level load function does NOT block code execution i
 
 
 (I don't know if the Asset files fully work or not, but the contained scripts should)
+This code is free to use however you want, but you'll probably want to code a better version based off of this one. (i'm kinda bad at coding sometimes)
